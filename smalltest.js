@@ -1,1 +1,3 @@
-alert('tst me');
+function doIt(){
+  alert('tst me');
+}
